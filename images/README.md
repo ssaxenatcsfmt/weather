@@ -9,6 +9,8 @@ to push to github
 
 
 clone repo
+1) git clone 
+
 
 to pull from github
 1) git pull
